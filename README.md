@@ -6,4 +6,3 @@
 - 👯 I’m looking to collaborate on IoT projects usining Raspberry Pi 
 - 🤔 I’m looking for help with Micropython for Pico
 - 💬 Ask me about food, Lucha Libre, F1
-- 📫 How to reach me: antonio@gmail.com
